@@ -1,0 +1,31 @@
+body{
+	background-color: #f4f4f4;
+	color: #555;
+	font-family: Arial,Helvetica;
+	font-size: 16px;
+	line-height: 1.6em;
+	margin: 0;
+
+}
+.container{
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+#main-header{
+	background-color: coral;
+	color:#fff;
+}
+#showcase{
+	background-image:url('cricket.jpeg');
+	background-position: top;
+	height: 400px;
+	margin-bottom: 30px;
+	text-align:center;
+}
+#showcase h1{
+	color: #fff;
+	font-size: 50px;
+	line-height: 1.6em;
+	padding: 30px;
+}
